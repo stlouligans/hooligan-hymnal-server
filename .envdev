@@ -1,0 +1,13 @@
+ENV=development
+PORT=
+MONGO_URI=mongodb+srv://housemsDB1:passord@mhtestcluster1.7djk4.mongodb.net/Louligan1?retryWrites=true&w=majority
+SECRET_KEY=SECRET_KEY
+INPUT_LANGUAGES=["en", "es"]
+CLOUDINARY_URL=
+TOKEN_EXPIRES="1h"
+REFRESH_TOKEN_EXPIRES="1d"
+MAIL_HOST=
+MAIL_PORT=
+MAIL_USER=
+MAIL_PASS=
+EXPO_EXPERIENCE=
